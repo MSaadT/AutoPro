@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>
+		<ValidLogin>
+			<user>admin0813</user>
+			<pass>power123</pass>
+		</ValidLogin>
+		<ValidLogin>
+			<user>admin0812</user>
+			<pass>power123</pass>
+		</ValidLogin>
+	</Execution>
+</Automation>
